@@ -1,0 +1,77 @@
+# s = set((1,2,10,6,7))
+# print(s)
+#
+# s = {1,2,10,6,7,70,8,100}
+# print(s)
+
+# print(s[0])
+
+# s.add(3)
+# print(s)
+
+# s.add(8,9)
+# print(s)
+
+# s.update(8,9)
+# s.update([8,9])
+# print(s)
+#
+# s.remove(8)
+# print(s)
+# s.remove(8)
+# print(s)
+#
+# s.discard(10)
+# print(s)
+# s.discard(10)
+# print(s)
+
+# s.clear()
+# print(s)
+
+# s.pop()
+# print(s)
+
+
+#
+# y = {7,8,9,10,11,12}
+# #
+# print(y)
+# #
+# print(s.union(y))
+# print(s.intersection(y))
+# print(s.difference(y))
+# print(s.symmetric_difference(y))
+
+
+# dict = {
+#     'name': 'Mayur',
+#     'Age': 30,
+#     'education':'Master'
+# }
+#
+# print(dict)
+#
+# print(dict['name'])
+# dict['location'] = 'Vietnam'
+# print(dict)
+#
+# print(dict.keys())
+# print(dict.values())
+# print(dict.items())
+#
+# dict.update({"Gender": "Male"})
+# print(dict)
+#
+# dict.pop('Gender')
+# print(dict)
+#
+# dict.popitem()
+# print(dict)
+#
+# dict1 = {
+#     'name': ['Mayur','Huyen','Huong','Andy','Lady'],
+#     'Age': [30,30,30,40,40],
+#  }
+# print(dict1['name'])
+# print(dict.get('name'))
