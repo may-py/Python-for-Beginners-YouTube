@@ -1,0 +1,65 @@
+# Operator
+
+# Assignment Operator
+# x = 60
+# print(x)
+#
+# a,b = 10,3
+# print(a)
+# print(b)
+
+# Arithmetic operator
+# print(a + b)
+# print(a - b)
+# print(a * b)
+# print(a / b)
+# print(a % b)
+# print(a ** b)
+# print(a // b)
+
+# a = a + b
+# print(a)
+
+# a+=b
+# print(a)
+
+
+# Relational operators
+# a = 10
+# b = 5
+
+# Equal to ==
+# print(a==10)
+
+# Grater than >
+# print(a>b)
+
+# Grater than or equal to >=
+# print(a>=11)
+
+# Less than <
+# print(a<b)
+
+# Less than or equal to <=
+# print(a<=b)
+
+# Not equals to !=
+# print(a!=b)
+
+
+# Logical Operators
+
+
+# a = 10
+# b = 5
+
+# print(a>b)
+# print(a>b and b>a)
+# print(True and False)
+
+# print(a>b or b>a)
+# print(True or False)
+
+# a = True
+# print (a)
+# print (not a)
