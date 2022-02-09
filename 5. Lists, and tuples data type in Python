@@ -1,0 +1,47 @@
+# names = ['Mayur','Huyen','Huong','Andy','Lady']
+# print(names)
+# print(len(names))
+# print(names[1])
+# # print(names[8])
+# print(names[0:3])
+# print(names[:5])
+# print(names[1:])
+# print(type(names))
+# names.append('Robin')
+# print(names)
+# names.insert(2,'Maria')
+# print(names)
+# names[3] = 'Ganesha'
+# print(names)
+#
+# names1 = ['Thu','Thuong']
+# print(names1)
+# names.extend(names1)
+# print(names)
+# names.pop()
+# print(names)
+# names.remove('Robin')
+# print(names)
+# names.reverse()
+# print(names)
+# names.sort(reverse=True)
+# print(names)
+#
+# names2 = sorted(names)
+# print(names2)
+#
+# namestr = ', '.join(names)
+# print(type(namestr))
+#
+# name_list = namestr.split(',')
+# print(type(name_list))
+#
+# names_copy = names.copy()
+# print(names_copy)
+
+
+# names = ('Mayur','Huyen','Huong','Andy','Lady')
+# print(names[0])
+# print(names.count('Andy'))
+# print(names.index('Lady'))
+# names[2] = 'Robin'
