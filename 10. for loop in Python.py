@@ -54,14 +54,10 @@
 #
 #
 #
-# # outer loop
+# outer loop
 # for i in range(1, 11):
 #     for j in range(1, 11):
 #         # print multiplication
 #         print(i * j, end=' ')
 #     print()
 
-import re
-
-result = re.findall('welcome to touring','welcome',1)
-print(result)
